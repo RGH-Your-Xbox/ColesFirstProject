@@ -84,7 +84,9 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="aDr-tg-KFa"/>
+                    <navigationItem key="navigationItem" id="aDr-tg-KFa">
+                        <barButtonItem key="rightBarButtonItem" title="Next" id="1Fv-pW-Gtu"/>
+                    </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pWq-j2-LN2" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
